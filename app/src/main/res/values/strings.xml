@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KEPMMI</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logo_kepmmi">Logo KEPMMI</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">Berita</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_work_calendar">Kalender Kerja</string>
+</resources>
